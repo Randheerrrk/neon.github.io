@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "742ec6ef954c229a207f036c7038c6a2",
+    "revision": "b6b545e93be4c571e1501e02487c120e",
     "url": "/neon.github.io/index.html"
   },
   {
-    "revision": "dabe81ed71e9d5bb90e0",
-    "url": "/neon.github.io/static/css/main.d9a67bc6.chunk.css"
+    "revision": "0af7246a09b7016f20ce",
+    "url": "/neon.github.io/static/css/main.6c55924b.chunk.css"
   },
   {
     "revision": "153f1cd7cc32f427cda1",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/neon.github.io/static/js/2.57787c0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dabe81ed71e9d5bb90e0",
+    "revision": "0af7246a09b7016f20ce",
     "url": "/neon.github.io/static/js/main.931f3097.chunk.js"
   },
   {
