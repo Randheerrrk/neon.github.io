@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/neon.github.io/precache-manifest.5bc136584f5c633226b93706416dab9b.js"
+  "/neon.github.io/precache-manifest.1029eac9f459dd838e5fd33cefdd0df4.js"
 );
 
 self.addEventListener('message', (event) => {
